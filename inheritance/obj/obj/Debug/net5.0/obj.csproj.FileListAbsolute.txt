@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Desktop\class\inheritance\obj\obj\Debug\net5.0\obj.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\class\inheritance\obj\obj\Debug\net5.0\obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\class\inheritance\obj\obj\Debug\net5.0\obj.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\class\inheritance\obj\obj\Debug\net5.0\obj.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\class\inheritance\obj\obj\Debug\net5.0\obj.csproj.CoreCompileInputs.cache

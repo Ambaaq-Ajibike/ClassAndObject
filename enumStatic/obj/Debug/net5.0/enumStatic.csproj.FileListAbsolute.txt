@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\class\enumStatic\bin\Debug\net5.0\enumStatic.exe
+C:\Users\ADMIN\Desktop\class\enumStatic\bin\Debug\net5.0\enumStatic.deps.json
+C:\Users\ADMIN\Desktop\class\enumStatic\bin\Debug\net5.0\enumStatic.runtimeconfig.json
+C:\Users\ADMIN\Desktop\class\enumStatic\bin\Debug\net5.0\enumStatic.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\class\enumStatic\bin\Debug\net5.0\enumStatic.dll
+C:\Users\ADMIN\Desktop\class\enumStatic\bin\Debug\net5.0\ref\enumStatic.dll
+C:\Users\ADMIN\Desktop\class\enumStatic\bin\Debug\net5.0\enumStatic.pdb
+C:\Users\ADMIN\Desktop\class\enumStatic\obj\Debug\net5.0\enumStatic.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\class\enumStatic\obj\Debug\net5.0\enumStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\class\enumStatic\obj\Debug\net5.0\enumStatic.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\class\enumStatic\obj\Debug\net5.0\enumStatic.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\class\enumStatic\obj\Debug\net5.0\enumStatic.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\class\enumStatic\obj\Debug\net5.0\enumStatic.dll
+C:\Users\ADMIN\Desktop\class\enumStatic\obj\Debug\net5.0\ref\enumStatic.dll
+C:\Users\ADMIN\Desktop\class\enumStatic\obj\Debug\net5.0\enumStatic.pdb
+C:\Users\ADMIN\Desktop\class\enumStatic\obj\Debug\net5.0\enumStatic.genruntimeconfig.cache

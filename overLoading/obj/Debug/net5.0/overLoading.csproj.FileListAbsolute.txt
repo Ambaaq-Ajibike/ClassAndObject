@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\class\overLoading\obj\Debug\net5.0\overLoading.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\class\overLoading\obj\Debug\net5.0\overLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\class\overLoading\obj\Debug\net5.0\overLoading.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\class\overLoading\obj\Debug\net5.0\overLoading.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\class\overLoading\obj\Debug\net5.0\overLoading.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\class\overLoading\bin\Debug\net5.0\overLoading.exe
+C:\Users\ADMIN\Desktop\class\overLoading\bin\Debug\net5.0\overLoading.deps.json
+C:\Users\ADMIN\Desktop\class\overLoading\bin\Debug\net5.0\overLoading.runtimeconfig.json
+C:\Users\ADMIN\Desktop\class\overLoading\bin\Debug\net5.0\overLoading.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\class\overLoading\bin\Debug\net5.0\overLoading.dll
+C:\Users\ADMIN\Desktop\class\overLoading\bin\Debug\net5.0\ref\overLoading.dll
+C:\Users\ADMIN\Desktop\class\overLoading\bin\Debug\net5.0\overLoading.pdb
+C:\Users\ADMIN\Desktop\class\overLoading\obj\Debug\net5.0\overLoading.dll
+C:\Users\ADMIN\Desktop\class\overLoading\obj\Debug\net5.0\ref\overLoading.dll
+C:\Users\ADMIN\Desktop\class\overLoading\obj\Debug\net5.0\overLoading.pdb
+C:\Users\ADMIN\Desktop\class\overLoading\obj\Debug\net5.0\overLoading.genruntimeconfig.cache

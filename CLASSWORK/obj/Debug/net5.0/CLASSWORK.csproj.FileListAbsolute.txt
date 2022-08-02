@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\class\CLASSWORK\bin\Debug\net5.0\CLASSWORK.exe
+C:\Users\ADMIN\Desktop\class\CLASSWORK\bin\Debug\net5.0\CLASSWORK.deps.json
+C:\Users\ADMIN\Desktop\class\CLASSWORK\bin\Debug\net5.0\CLASSWORK.runtimeconfig.json
+C:\Users\ADMIN\Desktop\class\CLASSWORK\bin\Debug\net5.0\CLASSWORK.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\class\CLASSWORK\bin\Debug\net5.0\CLASSWORK.dll
+C:\Users\ADMIN\Desktop\class\CLASSWORK\bin\Debug\net5.0\ref\CLASSWORK.dll
+C:\Users\ADMIN\Desktop\class\CLASSWORK\bin\Debug\net5.0\CLASSWORK.pdb
+C:\Users\ADMIN\Desktop\class\CLASSWORK\obj\Debug\net5.0\CLASSWORK.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\class\CLASSWORK\obj\Debug\net5.0\CLASSWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\class\CLASSWORK\obj\Debug\net5.0\CLASSWORK.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\class\CLASSWORK\obj\Debug\net5.0\CLASSWORK.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\class\CLASSWORK\obj\Debug\net5.0\CLASSWORK.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\class\CLASSWORK\obj\Debug\net5.0\CLASSWORK.dll
+C:\Users\ADMIN\Desktop\class\CLASSWORK\obj\Debug\net5.0\ref\CLASSWORK.dll
+C:\Users\ADMIN\Desktop\class\CLASSWORK\obj\Debug\net5.0\CLASSWORK.pdb
+C:\Users\ADMIN\Desktop\class\CLASSWORK\obj\Debug\net5.0\CLASSWORK.genruntimeconfig.cache

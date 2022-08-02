@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\class\questioniv\obj\Debug\net5.0\questioniv.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\class\questioniv\obj\Debug\net5.0\questioniv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\class\questioniv\obj\Debug\net5.0\questioniv.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\class\questioniv\obj\Debug\net5.0\questioniv.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\class\questioniv\obj\Debug\net5.0\questioniv.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\class\questioniv\bin\Debug\net5.0\questioniv.exe
+C:\Users\ADMIN\Desktop\class\questioniv\bin\Debug\net5.0\questioniv.deps.json
+C:\Users\ADMIN\Desktop\class\questioniv\bin\Debug\net5.0\questioniv.runtimeconfig.json
+C:\Users\ADMIN\Desktop\class\questioniv\bin\Debug\net5.0\questioniv.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\class\questioniv\bin\Debug\net5.0\questioniv.dll
+C:\Users\ADMIN\Desktop\class\questioniv\bin\Debug\net5.0\ref\questioniv.dll
+C:\Users\ADMIN\Desktop\class\questioniv\bin\Debug\net5.0\questioniv.pdb
+C:\Users\ADMIN\Desktop\class\questioniv\obj\Debug\net5.0\questioniv.dll
+C:\Users\ADMIN\Desktop\class\questioniv\obj\Debug\net5.0\ref\questioniv.dll
+C:\Users\ADMIN\Desktop\class\questioniv\obj\Debug\net5.0\questioniv.pdb
+C:\Users\ADMIN\Desktop\class\questioniv\obj\Debug\net5.0\questioniv.genruntimeconfig.cache
